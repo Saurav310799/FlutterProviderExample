@@ -1,2 +1,4 @@
 # FlutterProviderExample
-Demonstration of flutter provider State management.
+Demonstration of 'Flutter Provider State Management'.
+
+By Saurav
